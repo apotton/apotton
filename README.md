@@ -1,4 +1,4 @@
-<h1 align="center"> 🛠️ Alexandre Potton ! 🛠️ </h1>
+<h1 align="center"> 🛠️ Alexandre Potton 🛠️ </h1>
 
 <h2>🎓 Qui suis-je ?</h2>
 
@@ -10,11 +10,11 @@ Sur ce GitHub, vous trouverez une collection de mes projets personnels, réalis�
 
 <h2>📫 Me Contacter</h2>
 
-Vous pouvez me contacter par :
+Vous pouvez me contacter sur :
 
--[LinkedIn](https://www.linkedin.com/in/apotton/)
+-Linkedin: [Alexandre Potton](https://www.linkedin.com/in/apotton/)
 
--[Email](mailto:Alexandre.POTTON@student/isae-supaero.fr)
+-Email: [mail étudiant](mailto:Alexandre.POTTON@student/isae-supaero.fr)
 
 <hr>
 <h2 align="center">🔥 Langages de programmation et outils 🔥</h2>
