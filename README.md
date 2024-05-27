@@ -17,15 +17,14 @@ Vous pouvez me contacter sur :
 -Email: [mail étudiant](mailto:Alexandre.POTTON@student/isae-supaero.fr)
 
 <hr>
-<h2 align="center">🔥 Langages de programmation et outils 🔥</h2>
+<h3 align="center">🔥 Langages de programmation et outils 🔥</h2>
 <p align="center">
-  <code><img title="Python" height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
-  <code><img title="Javascript" height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
-  <code><img title="HTML5" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
-  <code><img title="CSS" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
-  <code><img title="MySQL" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
-  <code><img title="Git" height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
-  <code><img title="Java" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"></code>
-  <code><img title="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+  <code><img title="Python" height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
+  <code><img title="Javascript" height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
+  <code><img title="HTML5" height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
+  <code><img title="CSS" height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
+  <code><img title="Git" height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
+  <code><img title="Java" height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"></code>
+  <code><img title="Linux" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </p>
 <hr>
