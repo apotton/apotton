@@ -12,9 +12,11 @@ Sur ce GitHub, vous trouverez une collection de mes projets personnels, réalis�
 
 Vous pouvez me contacter sur :
 
--Linkedin: [Alexandre Potton](https://www.linkedin.com/in/apotton/)
+ <ul>
+  <li>Linkedin: [Alexandre Potton](https://www.linkedin.com/in/apotton/)</li>
+  <li>Email: [mail étudiant](mailto:Alexandre.POTTON@student/isae-supaero.fr)</li>
+</ul> 
 
--Email: [mail étudiant](mailto:Alexandre.POTTON@student/isae-supaero.fr)
 
 <h3 align="center">🔥 Langages de programmation et outils 🔥</h2>
 <p align="center">
