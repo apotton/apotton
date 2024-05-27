@@ -2,7 +2,7 @@
 
 <h2>🎓 Qui suis-je ?</h2>
 
-Je suis étudiant ingénieur à l'ISAE-Supaero 🚀. Passionné par l'aérospatiale et les technologies de pointe, j'explore aussi les méandres de la programmation dans mon temps libre.
+Je suis étudiant ingénieur à l'ISAE-Supaero 🚀. Passionné par l'aérospatiale et les technologies de pointe, j'explore aussi la programmation dans mon temps libre.
 
 <h2>💻 Mes Projets</h2>
 
