@@ -13,8 +13,8 @@ Sur ce GitHub, vous trouverez une collection de mes projets personnels, réalis�
 Vous pouvez me contacter sur :
 
  <ul>
-  <li>Linkedin: [Alexandre Potton](https://www.linkedin.com/in/apotton/)</li>
-  <li>Email: [mail étudiant](mailto:Alexandre.POTTON@student/isae-supaero.fr)</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/apotton/"> Alexandre Potton</a></li>
+  <li>Email: <a href="mailto:Alexandre.POTTON@student/isae-supaero.fr">Mail étudiant</a></li>
 </ul> 
 
 
