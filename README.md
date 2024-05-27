@@ -1,14 +1,14 @@
-#🛠️ Alexandre Potton ! 🛠️
+<h1 align="center"> 🛠️ Alexandre Potton ! 🛠️ </h1>
 
-##🎓 Qui suis-je ?
+<h2>🎓 Qui suis-je ?</h2>
 
-Salut ! Moi, c'est Alexandre Potton, étudiant ingénieur à l'ISAE-Supaero 🚀. Passionné par l'aérospatiale et les technologies de pointe, j'explore aussi les méandres de la programmation dans mon temps libre.
+Je suis étudiant ingénieur à l'ISAE-Supaero 🚀. Passionné par l'aérospatiale et les technologies de pointe, j'explore aussi les méandres de la programmation dans mon temps libre.
 
-##💻 Mes Projets
+<h2>💻 Mes Projets</h2>
 
 Sur ce GitHub, vous trouverez une collection de mes projets personnels, réalisés en divers langages de programmation, notamment en C et Java.
 
-##📫 Me Contacter
+<h2>📫 Me Contacter</h2>
 
 Vous pouvez me contacter par :
 
@@ -18,7 +18,6 @@ Vous pouvez me contacter par :
 
 <hr>
 <h2 align="center">🔥 Langages de programmation et outils 🔥</h2>
-<br>
 <p align="center">
   <code><img title="Python" height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
   <code><img title="Javascript" height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
