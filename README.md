@@ -16,7 +16,6 @@ Vous pouvez me contacter sur :
 
 -Email: [mail étudiant](mailto:Alexandre.POTTON@student/isae-supaero.fr)
 
-<hr>
 <h3 align="center">🔥 Langages de programmation et outils 🔥</h2>
 <p align="center">
   <code><img title="Python" height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
@@ -27,4 +26,3 @@ Vous pouvez me contacter sur :
   <code><img title="Java" height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"></code>
   <code><img title="Linux" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </p>
-<hr>
