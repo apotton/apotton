@@ -29,4 +29,4 @@ Vous pouvez me contacter sur :
   <code><img title="Linux" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apotton&show_icons=true&locale=en" alt="apotton" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apotton&show_icons=true&locale=fr" alt="apotton" /></p>
